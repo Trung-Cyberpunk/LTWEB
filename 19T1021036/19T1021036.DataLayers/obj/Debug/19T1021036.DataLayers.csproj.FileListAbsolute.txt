@@ -1,0 +1,18 @@
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DataLayers.dll
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DataLayers.pdb
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.csproj.AssemblyReference.cache
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.csproj.CoreCompileInputs.cache
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.dll
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.pdb
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DomainModels.dll
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DomainModels.pdb
+D:\Workspace\LTWeb\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DataLayers.dll
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DataLayers.pdb
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DomainModels.dll
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\bin\Debug\19T1021036.DomainModels.pdb
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.csproj.AssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.dll
+C:\Users\trung\OneDrive\Máy tính\LTWEB\19T1021036\19T1021036.DataLayers\obj\Debug\19T1021036.DataLayers.pdb
